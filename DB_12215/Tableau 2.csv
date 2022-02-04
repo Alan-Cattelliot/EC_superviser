@@ -1,0 +1,15 @@
+N° Pas,Sujet,Article N°
+1.0,"Détermination des dimensions principales, données et surfaces",6
+2.0,Détermination des dimensions des panneaux et raidisseurs,7
+3.0,Détermination des facteurs d’ajustement de pression,8
+4.0,Détermination des pressions de conception,9
+5.0,Détermination des Propriétés mécaniques et contraintes de conception (Tableau 17),10
+6.0,L’analyse structurelle et la détermination de l’échantillonnage doivent être effectuées en utilisant une ou une combinaison des méthodes suivantes (voir le Tableau 18) : ,11
+6.1,Méthode 1 (Simplifiée),11.2 et Annexe A
+6.2,Méthode 2 (Développée) analyse pli par pli,11.3 et Annexes A et H
+6.3,Méthode 3 (Améliorée) utilisation de la CLT,11.4 et Annexe A
+6.4,Méthode 4 (Essais directs),11.5
+6.5,Méthode 5 (FEM) Méthode par éléments finis,11.6
+6.6,Méthode d’essai alternative (Essai de chute),11.7 et Annexe D
+7.0,Exigences supplémentaires pour les bateaux à utilisation professionnelle et bateaux de travail,12 et Annexe J
+8.0,Éléments devant être inclus dans le manuel du propriétaire,13
